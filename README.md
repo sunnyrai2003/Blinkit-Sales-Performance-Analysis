@@ -6,9 +6,11 @@ The Blinkit Sales Performance Analysis project is designed to provide an in-dept
 # KPI Metrics:
 The following KPIs were used to analyze Blinkit's sales performance:
 
-Total Sales: This metric represents the overall revenue generated from all items sold.
-Average Sales: The average revenue per sale, providing insights into the typical transaction size.
-Number of Items: This KPI tracks the total count of different items sold, giving a sense of inventory turnover and product popularity. 4.Average Rating: The average customer rating for items sold, an important indicator of customer satisfaction.
+1.Total Sales: This metric represents the overall revenue generated from all items sold.
+2.Average Sales: The average revenue per sale, providing insights into the typical transaction size.
+3.Number of Items: This KPI tracks the total count of different items sold, giving a sense of inventory turnover and product popularity.
+4.Average Rating: The average customer rating for items sold, an important indicator of customer satisfaction.
+
 
 # Chart Requirements:
 1.Total Sales by Fat Content: Objective: Analyze the impact of fat content on total sales. Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
